@@ -46,6 +46,7 @@ Now navigate to @/page/admin@ and create and edit pages using the Tiny MCE HTML 
 Optionally create the following templates to make the pages look more like being part of your app: 
 * @cms/default.html@, which will be used to render your pages.
 * @cms/cms.html@, which will be used to render the cms admin pages.
+* set the language of the ckeditor to your prefered language (default: 'ru') by copying  @public/ckeditor/config.js@ to your project
 
 *Congratulations! You just added a CMS to your Play! App!*
 
